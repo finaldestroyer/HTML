@@ -1,0 +1,170 @@
+	html, body {
+		margin: 0;
+		padding: 0;
+		background: url("absol_sky_dark_clouds_red_eyes_city_pokemon_hd-wallpaper-1578617.jpg")no-repeat center center fixed;
+		/*background: url("http://images5.alphacoders.com/613/613925.jpg") no-repeat center center fixed;*/
+		/*background: url("http://p1.pichost.me/i/67/1918829.jpg") no-repeat center center fixed;*/
+		background: relative;
+		background-size: cover;
+		opacity:1.5;
+	}
+	h1{
+		font-size: 35px;
+		font-weight:bold;
+		padding: 14px 10px;
+		border-color:clear;
+		color: #333;
+		font-family: 'Raleway', sans-serif;
+		margin-top: 0;
+		margin-bottom: 80px;
+		text-transform: uppercase;
+	}
+	a:active {
+		color: red;
+	}
+	.heading li{
+		font-size: 20px;
+		display:inline;
+	}
+	.thumbnail{
+		display:inline;
+		padding:10px;
+	}
+	.body {
+		text-align: center;
+	}
+	div {
+		border-radius: 20px;
+	}
+	h4 {
+    	margin-left: 5px;
+    	margin-bottom: 15px;
+    	font-family: Verdana, sans-serif;
+    }
+	.nav-pills li {
+		color: black; 
+	}
+	.nav-pills a:hover {
+    	font-weight: bold;
+		font-size: 135%;
+    }
+    .resume {
+    	position: relative;
+    	float: none;
+    	width: 88%;
+    	background-color:gray;
+    	margin-bottom: 10px;
+		margin-left:80px;
+		padding: 12px;
+		margin-top:10px;
+		opacity: .9;
+    }
+
+    .footer {
+		clear: both;
+		background-color: #333;
+		padding:25px 0;
+		text-align: center;
+		opacity:.95;
+		margin: 5px;
+		}
+	.footer p{
+		font-family: 'Raleway', sans-serif, Verdan
+		text-transform: uppercase;
+		float: none;
+    	position: relative;
+    	height: 50px;
+    	
+    	clear: both;
+    	font-size: 14px;
+    	text-align: center;
+    	color: #ffffff;
+		display: inline;
+		margin-right: 40px;
+	}
+	
+	.row .img{
+		height:80%;
+		width: 80%;
+	}
+	.col-md-4{
+		display: inline;
+		padding:0.688em;
+	}
+	.col-md-4 img{
+	    height: 275px;
+		width: 300px;
+		opacity:.95;
+	}
+	.contact {
+		color: white;
+	}
+	.box img{
+		height: 400px;
+		width: 400px;
+	}
+	.box p{
+		float: none;
+		text-align: center;
+	}
+	.box{
+		position: relative;
+    	float: center;
+    	margin-top: 50px;
+    	width: 88%;
+    	background-color: gray;
+    	margin-bottom: 10px;
+		margin-left:80px;
+		padding:.625em;
+		opacity: .9;
+	}
+	.icon{
+		height:45px;
+		width:45px;
+	}
+	.h1heading{
+		text-align:center;
+		color:#36FA05;
+		opacity: 100%;
+	}
+	.ptext h1{
+	color: black;
+	}
+	.ptext p{
+	color:black;
+
+	}
+	.ptext{
+	background-color:gray;
+	padding-bottom: 1.25em;
+	margin:1.25em;
+	opacity: .85;
+	}
+	li a{
+	text-align:center;
+	}
+	.project2 li{
+		text-align:center;
+		margin:75px;
+	}
+	.project2{
+		margin:50px;
+	}
+	.project2 img{
+	padding:20px;
+	height: 500px;
+	}
+	.project3 li{
+	margin: 50px;
+	}
+	.project3 img{
+	height: 45%;
+	width: 45%;
+	}
+	.project4{
+	margin: 50px;
+	}
+	.project4 img{
+	height: 35%;
+	width: 45%;
+	}
